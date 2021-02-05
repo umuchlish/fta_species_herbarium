@@ -1,1 +1,1 @@
-this is file list for FTA-Herbarium dataset
+FTA-Herbarium dataset
